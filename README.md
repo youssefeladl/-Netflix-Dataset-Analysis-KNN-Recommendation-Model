@@ -43,9 +43,3 @@ This project analyzes the **Netflix Movies and TV Shows dataset** to extract use
 - Hyperparameters used: `n_neighbors = 5`, distance = Euclidean
 - Evaluation metrics: Accuracy, confusion matrix
 
-## 🚀 How to Run
-
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
